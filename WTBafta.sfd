@@ -1,0 +1,89 @@
+SplineFontDB: 3.2
+FontName: WTBafta
+FullName: WTBafta
+FamilyName: WTBafta
+Weight: Regular
+Copyright: Copyright (c) 2025, User
+UComments: "2025-8-11: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -26
+UnderlineWidth: 13
+Ascent: 205
+Descent: 51
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 318 329363189 21376]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1754913615
+ModificationTime: 1754913739
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 38 13
+BeginPrivate: 0
+EndPrivate
+Grid
+-256 -31.5999984741 m 0
+ 512 -31.5999984741 l 1024
+  Named: "Descender"
+-256 121.400001526 m 0
+ 512 121.400001526 l 1024
+  Named: "Lowercase"
+-256 183.900001526 m 0
+ 512 183.900001526 l 1024
+  Named: "Uppercase"
+-256 195.400001526 m 0
+ 512 195.400001526 l 1024
+  Named: "X-Height"
+EndSplineSet
+BeginChars: 256 1
+
+StartChar: n
+Encoding: 110 110 0
+Width: 256
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+56 102.400390625 m 1049
+56 121.400390625 m 1049
+18 106 m 25
+ 22 91 l 1049
+81 121.400390625 m 25
+ 81 0 l 25
+ 100 0 l 25
+ 100 121.400390625 l 25
+ 81 121.400390625 l 25
+11 121.400390625 m 25
+ 11 0 l 25
+ 30 0 l 25
+ 30 121.400390625 l 25
+ 11 121.400390625 l 25
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
